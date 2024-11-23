@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐞 Creating bugs since 2023<br>📚 I'm currently learning Data STrycture And Algorithm, AI, Cyber Security>🎯 Goals: Full Stack Developer</p>
+<p align="left">🐞 Creating bugs since 2023<br>📚 I'm currently learning Data STrycture And Algorithm, AI, Cyber Security> 🎯 Goals: Full Stack Developer</p>
 
 ###
 
