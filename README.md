@@ -73,7 +73,7 @@
 
 ### `$ ./contribution_snake --eat`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gulzrn&show_icons=true&theme=transparent&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&hide_rank=true" />
+<img src="https://raw.githubusercontent.com/Gulzrn/Gulzrn/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 
 ### `$ cat connect.txt`
